@@ -71,7 +71,7 @@ body {
     position: relative;
     width: 100%;
     height: 100vh;
-    background: url('/public/video/matrix.gif') repeat-y;
+    background: url('/video/matrix.gif') repeat-y;
     background-size: cover;
     z-index: -1;
 }
